@@ -7,7 +7,7 @@
 <br>
 <br>
 <div class="spruced-text" ><h5> Day 2 - 3.25.21</h5>
-<p> Complted the Basic CSS module and although it feels good to be grasping some basic concepts, I feel like I haven't even scratched the surface of HTML and CSS. Just ordered a book on HTML and CSS to start diggin deeper. I'm determined to make this more about quality and depth of understanding than just surface knowledge of a lot. 
+<p> Completed the Basic CSS module and although it feels good to be grasping some basic concepts, I feel like I haven't even scratched the surface of HTML and CSS. Just ordered a book on HTML and CSS to start diggin deeper. I'm determined to make this more about quality and depth of understanding than just surface knowledge of a lot. 
   </p>
   
   </div>
