@@ -1,11 +1,4 @@
 # 100 Days Of Code - Log
-<style>
-  .spruced-text{
-  color:orange;
-  text-align: center;
-  }
-  
-  </style>
 
 
 <h5> Day 1 - 3.24.21 </h5>
