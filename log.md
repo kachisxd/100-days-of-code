@@ -10,7 +10,12 @@
 <h5> Day 2 - 3.25.21</h5>
 <p> Completed the Basic CSS module and although it feels good to be grasping some basic concepts, I feel like I haven't even scratched the surface of HTML and CSS. Just ordered a book on HTML and CSS to start diggin deeper. I'm determined to make this more about quality and depth of understanding than just surface knowledge of a lot. 
   </p>
-  </p>
+  <p>
 <h5> Day 3 - 3.26.21</h5>
  After completing the Basic HTML and CSS modules of FCC, I realise I need to go deeper so I'm back tracking to a video course on HTML and CSS with the aim of going deeper and fully grasping the concepts and useful items. Learned about MDN and devdocs today and I believe those might be quite useful alongside everything else.  
 </p>
+
+<p>
+    <h5> Day 3 - 3.27.21</h5>
+    Choosing to dive deeper into HTML and CSS is proving to be the right choice not necessarily because of the knowledge gained but more for the confidence it's adding to me. Today, I managed to write a replica of my photography page using HTML and CSS. I'm learning how to find solutions to the (basic, I'm sure) problems I've encountered so far.  
+    </p>
