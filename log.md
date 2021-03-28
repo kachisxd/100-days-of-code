@@ -16,6 +16,6 @@
 </p>
 
 <p>
-    <h5> Day 3 - 3.27.21</h5>
+    <h5> Day 4 - 3.27.21</h5>
     Choosing to dive deeper into HTML and CSS is proving to be the right choice not necessarily because of the knowledge gained but more for the confidence it's adding to me. Today, I managed to write a replica of my photography page using HTML and CSS. I'm learning how to find solutions to the (basic, I'm sure) problems I've encountered so far.  
     </p>
