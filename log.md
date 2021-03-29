@@ -2,9 +2,9 @@
 
     
 
-
+<p>
 <h5> Day 1 - 3.24.21 </h5>
-<p> I created an account on <a href="http://freecodingcamp.org"> Free Coding Camp</a> and started on the Responsive Web Design Certification and completed the basic HTML & HTML5 challenges in about an hour and a half. It feels like I am not sure yet what's going on but after over 10 years since I last wrote any code, it feels good to be at it again. 
+ I created an account on <a href="http://freecodingcamp.org"> Free Coding Camp</a> and started on the Responsive Web Design Certification and completed the basic HTML & HTML5 challenges in about an hour and a half. It feels like I am not sure yet what's going on but after over 10 years since I last wrote any code, it feels good to be at it again. 
   </p>
 
 <h5> Day 2 - 3.25.21</h5>
@@ -19,3 +19,14 @@
     <h5> Day 4 - 3.27.21</h5>
     Choosing to dive deeper into HTML and CSS is proving to be the right choice not necessarily because of the knowledge gained but more for the confidence it's adding to me. Today, I managed to write a replica of my photography page using HTML and CSS. I'm learning how to find solutions to the (basic, I'm sure) problems I've encountered so far.  
     </p>
+    
+    <p>
+    <h5> Day 5 - 3.28.21</h5>
+    Further practice in CSS with FCC and the methodology of it is beginning to sink in slowly. It's beginning to feel like what I need to learn is how to think and if I can do that, the job would be finding the code to help me accomplish my thoughts.
+</p>
+<p>
+    <h5>Day 6 3.29.21 </h5>
+    It's been an incredibly busy day at work that will carry late into the night but I brought my HTML & CSS book with me and have managed to get some study in and write some code during while waiting for files to load and during my lunch break.
+</p>
+
+
