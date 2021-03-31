@@ -27,7 +27,14 @@
 
 <p>
     <h5>Day 6 3.29.21 </h5>
-    It's been an incredibly busy day at work that will carry late into the night but I brought my HTML & CSS book with me and have managed to get some study in and write some code during while waiting for files to load and during my lunch break.
+    It's been an incredibly busy day at work that will carry late into the night but I brought my HTML & CSS book with me and have managed to get some study in and write some code during while waiting for files to load and during my lunch break. <br>
+    Ended up putting in additional 3 hours of coding practice after work. I'm realising that this might become all-consuming quite soon.  
 </p>
+
+<p>
+   <h5>Day 7 3.30.21 </h5>
+   The more I learn, the more I realise how much I don't know. I'm finding myself light on the basic fundamentals of computer engineering so i enrolled in the Edx CS50 course for an overview. The intention is to power through that as quickly as possible to put pins on things that will require more attention. Racked up a another 3-4 hrs of coding today. Jeanine's resume website is coming together.
+   </p>
+   
 
 
