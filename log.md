@@ -36,5 +36,11 @@
    The more I learn, the more I realise how much I don't know. I'm finding myself light on the basic fundamentals of computer engineering so i enrolled in the Edx CS50 course for an overview. The intention is to power through that as quickly as possible to put pins on things that will require more attention. Racked up a another 3-4 hrs of coding today. Jeanine's resume website is coming together.
    </p>
    
+   <p>
+   <h5>Day 8 3.31.21 </h5>
+   Still going through the FCC classes and just discovered frontendmentor challenges. I worked on my first design challeng using CSS and beginning to get a hang of using stack overflow when I'm stuck. I think these challenges might be helpful to give me targets to practice with as I soak up the courses. 
+   </p>
+   
+   
 
 
