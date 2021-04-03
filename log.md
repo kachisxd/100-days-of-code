@@ -41,6 +41,15 @@
    Still going through the FCC classes and just discovered frontendmentor challenges. I worked on my first design challeng using CSS and beginning to get a hang of using stack overflow when I'm stuck. I think these challenges might be helpful to give me targets to practice with as I soak up the courses. 
    </p>
    
+    <p>
+   <h5>Day 9 4.1.21 </h5>
+  Trudging along. The depth of what I still don't know if I need to know is weighing on me. This feels like a good time to focus on the trees and leave the forest be but I don't know how well I can do that. 
+   </p>
+   
+    <p>
+   <h5>Day 10 4.2.21 </h5>
+   Still putting in the hours. Making progress. 
+   </p>
    
 
 
