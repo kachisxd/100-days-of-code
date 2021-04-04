@@ -1,7 +1,5 @@
 # 100 Days Of Code - Log
 
-    
-
 <p>
 <h5> Day 1 - 3.24.21 </h5>
  I created an account on <a href="http://freecodingcamp.org"> Free Coding Camp</a> and started on the Responsive Web Design Certification and completed the basic HTML & HTML5 challenges in about an hour and a half. It feels like I am not sure yet what's going on but after over 10 years since I last wrote any code, it feels good to be at it again. 
@@ -50,6 +48,8 @@
    <h5>Day 10 4.2.21 </h5>
    Still putting in the hours. Making progress. 
    </p>
-   
 
-
+   <p>
+   <h5>Day 11 4.3.21 </h5>
+   I'm beginning to have feelings for CSS and the possibilities of it.  Everything I've learned in the past 9 days has gone into <a href="https://kachisxd.github.io/j9/"> this project </a>. 
+   </p>
