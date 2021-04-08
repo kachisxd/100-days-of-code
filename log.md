@@ -53,3 +53,20 @@
    <h5>Day 11 4.3.21 </h5>
    I'm beginning to have feelings for CSS and the possibilities of it.  Everything I've learned in the past 9 days has gone into <a href="https://kachisxd.github.io/j9/"> this project </a>. 
    </p>
+   <p>
+   <h5>Day 12 4.4.21 </h5>
+   Just chugging along  
+   </p>
+   <p>
+   <h5>Day 13 4.5.21 </h5>
+   Still chugging along.
+   </p>
+
+   <p>
+   <h5>Day 14 4.6.21 </h5>
+   HTML and CSS are beginning to feel like they make sense. Less like drowning hopelessly and more like "drowning but I could figure it out".
+   </p>
+   <p>
+   <h5>Day 15 4.7.21 </h5>
+   The lack of sleep is beginning to pile up and get to me. I think I could really love writing code so it's getting increasingly difficult to slow it down and focus on mastering the basics.
+   </p>
