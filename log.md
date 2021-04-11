@@ -70,3 +70,18 @@
    <h5>Day 15 4.7.21 </h5>
    The lack of sleep is beginning to pile up and get to me. I think I could really love writing code so it's getting increasingly difficult to slow it down and focus on mastering the basics.
    </p>
+
+  <p>
+   <h5>Day 16 4.8.21 </h5>
+   More css
+ </p>
+
+  <p>
+   <h5>Day 17 4.9.21 </h5>
+   Even more CSS
+  </p>
+
+  <p>
+   <h5>Day 18 4.10.21 </h5>
+   The possibilities of CSS are both invigorating and seemingly endless that it's somewhat terrifying.
+  </p>
