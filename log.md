@@ -81,7 +81,24 @@
    Even more CSS
   </p>
 
+  
+
   <p>
-   <h5>Day 18 4.10.21 </h5>
+   <h5>Day 18 4.11.21 </h5>
    The possibilities of CSS are both invigorating and seemingly endless that it's somewhat terrifying.
+  </p>
+
+<p>
+   <h5>Day 19 4.12.21 </h5>
+   Day off for illness recovery
+  </p>
+
+<p>
+   <h5>Day 20 4.13.21 </h5>
+   More CSS. Organizing the page with CSS is beginning to make sense.
+  </p>
+
+<p>
+   <h5>Day 21 4.14.21 </h5>
+   More CSS
   </p>
